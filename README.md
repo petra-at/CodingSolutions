@@ -1,1 +1,1 @@
-# CodingSolutions
+# CodingSolutions to Hacker Rank Qs 
